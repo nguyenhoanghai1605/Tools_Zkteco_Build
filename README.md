@@ -25,3 +25,5 @@ ZKTECO is the ideal choice for organizations looking to actively manage attendan
 ![image](https://github.com/user-attachments/assets/f0d58e70-a5f7-4567-9dd7-9b44dbb27d55)
 ![image](https://github.com/user-attachments/assets/07fbcb58-0df7-4ea6-a11a-a87007cc3f59)
 ![image](https://github.com/user-attachments/assets/dc8c85a9-3918-49c0-ba8f-5a4b7b5450f7)
+
+**Copyright by** Nguyen Hoang Hai
