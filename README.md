@@ -1,4 +1,4 @@
-## Introduction to ZKTECO Open Source Time Attendance Management Tool
+## Introduction to ZKTECO Open Source Time Attendance Management Tool:
 
 ZKTECO is an open-source software solution designed to efficiently manage attendance devices, ideal for businesses, organizations, and schools that need to track employee or student attendance. Developed to automate and streamline timekeeping processes, ZKTCO helps minimize errors, save time, and enhance personnel management efficiency.
 
